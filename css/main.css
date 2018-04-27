@@ -15,22 +15,22 @@ a:hover { color: pink; }
 
 .navbar { 
 	list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: #2ecc71;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #2ecc71;
 }
 
 .navbar__item {
 	float: left;
 	display: block;
-    color: #666;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
+	color: #666;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
 }
 
 .navbar_item--active {
-	background:;
+	background: ;
 	color: ;
 }
