@@ -1,0 +1,36 @@
+body, html {
+	margin: 0;
+	padding: 0;
+	background: #FFF;
+	line-height: 1.5;
+	color: #333;
+}
+
+h1 { font-size: 3em; }
+h2 { font-size: 2.5em; }
+h3 { font-size: 2em; }
+
+a { color: red; }
+a:hover { color: pink; }
+
+.navbar { 
+	list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #2ecc71;
+}
+
+.navbar__item {
+	float: left;
+	display: block;
+    color: #666;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.navbar_item--active {
+	background:;
+	color: ;
+}
